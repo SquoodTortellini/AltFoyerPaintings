@@ -1,0 +1,13 @@
+title: AltFoyerPaintings
+originalAuthor: Squood
+description: Replaces the Old Mansion's paintings with alternatives picked by meself
+dependencies: 
+assets:
+- name: remastered/map/tt15.map/-32.dds
+  method: copy
+  source:
+  - name: remastered/map/tt15.map/-32.dds
+- name: remastered/map/tt15.map/-11.dds
+  method: copy
+  source:
+  - name: remastered/map/tt15.map/-11.dds
